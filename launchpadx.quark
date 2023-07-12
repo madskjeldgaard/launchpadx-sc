@@ -1,0 +1,11 @@
+(
+  name: "launchpadx",
+  summary: "A simple interface for the Novation Launchpad X controller",
+  version: "0.001",
+  schelp: "LaunchpadX.schelp",
+  dependencies: nil,
+  license: "GNU GPL v3.0",
+  copyright: "madskjeldgaard",
+  ext_dependency: nil,
+  url: "https://github.com/madskjeldgaard/launchpadx-sc"
+)
