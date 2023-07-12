@@ -60,4 +60,12 @@ l.setSleepMode(0);
 
 // Unsleep
 l.setSleepMode(1);
+
+// Silly example: Display latest code you evaluated on the Launchpad X
+// See the Interpreter help file for more info on using the preprocessor
+(
+this.preProcessor = {|text| 
+    l.textScroll(text, loop:0, speed: rrand(1,20), colourspec: rrand(0,100))
+}
+)
 ```
