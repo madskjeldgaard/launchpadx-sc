@@ -1,7 +1,6 @@
 # LaunchpadX
 
-[![See it in action](https://img.youtube.com/vi/TCKBnxeUJGI/0.jpg)](https://www.youtube.com/watch?v=TCKBnxeUJGI)
-
+[See it in action](https://www.youtube.com/watch?v=TCKBnxeUJGI)
 
 ## A simple interface for the Novation Launchpad X controller
 
